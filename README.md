@@ -1,6 +1,19 @@
 # 💫 About Me:
-Hey! I’m a curious coder who loves turning ideas into projects. I enjoy exploring Machine Learning, building web apps, and experimenting with new tech. Always learning, always coding, and always caffeinated. ☕<br><br>I am currently working on: Converting ResolveAi(smart issue management platform) into a Campus version too.<br><br>I am looking to collaborate on: Open-source projects and creative coding experiments.<br><br>I am looking for help with: Optimizing my ML models and trying out new tools.<br><br>I am currently learning: Deep Learning tricks, React, and cloud deployment.<br><br>Ask me about: Python, ML, project hacks, or random tech stuff.<br><br>Fun fact: I love solving problems one line of code at a time!
 
+🎓 Computer Science student focused on building practical projects and improving fundamentals
+
+🎯 Focus Areas: Machine Learning, Full Stack Development, React
+
+🔨 Currently Building:
+ResolveAI – adapting a smart issue management platform for campus use
+
+🌱 Learning: Deep Learning, React, Cloud Deployment
+
+🤝 Open to: Open-source collaboration and real-world projects
+
+💬 Ask me about: Python, ML basics, project development
+
+⚡ Fun Fact: LeetCode feels like a game to me.Each problem is a chance to learn something new.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwin-syal-b466b02a8) 
@@ -13,13 +26,12 @@ Hey! I’m a curious coder who loves turning ideas into projects. I enjoy explor
 ![](https://nirzak-streak-stats.vercel.app/?user=ishwin07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwin07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ishwin07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **ishwin07/ishwin07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
