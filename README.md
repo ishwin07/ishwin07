@@ -2,7 +2,7 @@
 
 🎓 Computer Science student focused on building practical projects and improving fundamentals
 
-🎯 Focus Areas: Machine Learning, Full Stack Development, React
+🎯 Focus Areas: Machine Learning, Full Stack Development, Artificial Intelligence, AI Agents, Agentic AI, Automation
 
 🔨 Currently Building:
 ResolveAI – adapting a smart issue management platform for campus use
